@@ -1,0 +1,14 @@
+html, body {
+    @apply w-full h-screen;
+    font-family: $font-main;
+    color: $main-color;
+    scroll-behavior: smooth;
+}
+
+.my-container {
+    width: 860px;
+}
+
+.text-header {
+    font-family: $font-header;
+}
